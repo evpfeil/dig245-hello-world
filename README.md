@@ -13,7 +13,9 @@ Publish a website using VS Code, Git, and Github.
 
 
 <details>
-<summary>Learning Objectives</summary>
+<summary>Learning Objectives, Preparation, Rubric</summary>
+
+### Learning Objectives
 
 Students who complete this assignment will be able to:
 
@@ -23,39 +25,23 @@ Students who complete this assignment will be able to:
 - Explain essential computing concepts from an activity in the [learn-computing](https://github.com/omundy/learn-computing) modules.
 - Use Git and Github to fork, clone, update, and publish files in a repository.
 
-</details>
 
-
-<details>
-<summary>Preparation</summary>
+### Preparation
 
 Complete the following to prepare for this assignment: 
 
 - Chapter 1 of Critical Web Design
 - Course content listed on the schedule
 
-</details>
 
+### Rubric
 
-<details>
-<summary>Rubric</summary>
 See Moodle.
+
 </details>
 
 
 
-
-
-
-
-## Concept 
-
-- 📚 "Introduction" (chapter 0) and "Networks" (chapter 1) in *Critical Web Design*
-
-
-#### Articles
-
-- 📚 B.J. Keeton [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world) (2020)
 
 
 
@@ -63,10 +49,12 @@ See Moodle.
 
 ## Setup
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository (*create a copy of the project in your own Github account*).
-1. [Clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) your copy to your machine. 
-
-
+1. **Fork this repository**
+   1. Click "Fork" at the top right of the Github page. 
+   2. This creates a copy of the project in your own Github account.
+2. **Clone your copy to your machine** 
+   1. Click the green "< > Code" button
+   2. Choose "Open with Github Desktop". 
 
 
 <!-- Add git milestones here 
@@ -100,6 +88,12 @@ Add the following in `index.html`. Use HTML to make your text readable. Experime
 
 ## Resources
 
+### Technology
+
 - Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
+### Inspiration
+
+- 📚 "Introduction" (chapter 0) and "Networks" (chapter 1) in *Critical Web Design*
+- 📚 B.J. Keeton [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world) (2020)
